@@ -1,3 +1,7 @@
+Full Project located at https://github.com/thatguyMattimus/Project-Build-an-ML-Pipeline-Starter
+Wandb report located at https://wandb.ai/mrwho103-western-governors-university/nyc_airbnb/reports/Share-Report-for-Udacity--VmlldzoxNTEzNDg4Mw?accessToken=gplqkv15mz7vgghzccfebnju9y1q67lm3j48fcgo6u6aoqrv5mh2thrys4ezi2r0
+
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
